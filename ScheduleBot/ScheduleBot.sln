@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScheduleBot", "ScheduleBot\ScheduleBot.csproj", "{FEFAC619-008E-4097-94FF-B0402361E7A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CasinoBot", "ScheduleBot\CasinoBot.csproj", "{FEFAC619-008E-4097-94FF-B0402361E7A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotData", "BotData\BotData.csproj", "{AD5A9FCC-EF86-4A6C-9CA6-13FB29DE53EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BotData", "BotData\BotData.csproj", "{AD5A9FCC-EF86-4A6C-9CA6-13FB29DE53EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
